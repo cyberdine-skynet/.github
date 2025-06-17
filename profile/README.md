@@ -1,22 +1,27 @@
+# Homelab 📦
 
+Welcome to my personal **homelab** — everything you need to know about my self-hosted infrastructure, GitOps workflows, and Cloud Native experiments.
 
+---
 
-Welcome to my homelab repository—your go-to place for all configurations, documentation, and setup scripts.
+## 🔧 Overview
 
-As a Cloud Native Engineer, I spend my days working with Kubernetes, and this homelab is my personal sandbox. It’s where I:
-	•	Experiment boldly with new tools, architectures, and practices
-	•	Own it end-to-end—from provisioning servers to securing, scaling, and backing them up
-	•	Master infrastructure concepts like GitOps, CI/CD, and automation in a low-pressure, self-hosted environment
+This repository contains:
 
-Every update here is a deliberate step toward deeper understanding and better self-reliance in deploying and maintaining cloud-native systems.
+- Configurations for servers and clusters (e.g., Talos, Kubernetes)  
+- GitOps pipelines for deploying apps and system components  
+- Documentation on networking, security, backups, and monitoring  
 
-⸻
+---
 
-📌 What you’ll find
-	•	Declarative infrastructure configs (Talos, Kubernetes, networking)
-	•	GitOps workflows for application delivery
-	•	Self-hosted setups for backups, monitoring, security, and more
+## 🎯 Purpose
 
-⸻
+As a Cloud Native Engineer, I work with Kubernetes every day. This homelab serves as my playground for:
 
-Let me know if this strikes the right balance or if you want a version that’s shorter, more casual, or polished in another style!
+- **Innovating**: experimenting with new technologies and architectures  
+- **Ownership**: deploying and maintaining systems from end to end  
+- **Skill-building**: mastering GitOps, CI/CD, automation, and system reliability  
+
+---
+
+## 📂 Structure
