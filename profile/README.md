@@ -1,6 +1,5 @@
 
 
-🔧 Introduction
 
 Welcome to my homelab repository—your go-to place for all configurations, documentation, and setup scripts.
 
