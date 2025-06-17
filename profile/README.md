@@ -26,17 +26,6 @@ As a Cloud Native Engineer, I work with Kubernetes every day. This homelab serve
 
 ---
 
-## 📂 Structure
-
-/
-├── clusters/             〉 Cluster definitions (Talos + Kubernetes)
-├── infrastructure/       〉 Cilium, ingress, cert-manager, storage classes
-├── apps/                 〉 GitOps-managed application manifests
-├── docs/                 〉 Architecture, user guides, runbooks
-└── scripts/              〉 Utility scripts (bootstrap, cleanup, backups)
-
----
-
 ## 🚀 Quick Start
 
 1. **Provision** your Talos node(s) via `clusters/<your-cluster>/`  
