@@ -14,36 +14,6 @@ This repository contains:
 - GitOps pipelines for deploying apps and system components  
 - Documentation on networking, security, backups, and monitoring  
 
----
-
-## 🎯 Purpose
-
-As a Cloud Native Engineer, I work with Kubernetes every day. This homelab serves as my playground for:
-
-- **Innovating**: experimenting with new technologies and architectures  
-- **Ownership**: deploying and maintaining systems from end to end  
-- **Skill-building**: mastering GitOps, CI/CD, automation, and system reliability  
-
----
-
-## 🚀 Quick Start
-
-1. **Provision** your Talos node(s) via `clusters/<your-cluster>/`  
-2. **Install** core infrastructure (Cilium, ingress controller, cert-manager)  
-3. **Deploy** your first app via GitOps using the `apps/` folder  
-4. **Iterate**: tweak configs, try new tools, test disaster recovery  
-
----
-
-## 📖 Docs & Guides
-
-- `docs/architecture.md` — Cluster & network architecture  
-- `docs/gitops.md` — GitOps workflows & Argo CD / Flux setups  
-- `docs/backups.md` — Backup & restore processes  
-- `docs/security.md` — Security best practices & hardening guides  
-
----
-
 ## 🛠 Tools & Technologies
 
 - **Talos Linux** for immutable control plane provisioning  
