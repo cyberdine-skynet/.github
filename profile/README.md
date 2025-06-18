@@ -1,4 +1,3 @@
-Here’s a polished README.md template in Markdown—structured, clean, and ready for your GitHub organization or personal homelab project:
 
 # Homelab 📦
 
