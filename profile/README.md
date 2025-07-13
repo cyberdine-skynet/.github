@@ -17,7 +17,7 @@ This repository contains:
 
 - **Talos Linux** for immutable control plane provisioning  
 - **Kubernetes** for container orchestration  
-- **GitOps** (Argo CD / Flux) for declarative deployments  
+- **GitOps** (Argo CD) for declarative deployments  
 - **Networking**: Cilium, Ingress controllers  
 - **Storage**: CSI drivers, self-hosted backups  
 - **Monitoring**: Prometheus, Grafana, alerting pipelines  
